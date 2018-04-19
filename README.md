@@ -1,5 +1,7 @@
 # `Dock-PS`
 
+**NOTE** This repository is archived as it has been [relocated](https://github.com/GeeLaw/PowerShellThingies/tree/master/modules/Dock-PS).
+
 <div>
 <img src="https://cdn.rawgit.com/GeeLaw/Dock-PS/master/assets/icon-forbidden.png" height="100" width="100"/>
 <img src="https://cdn.rawgit.com/GeeLaw/Dock-PS/master/assets/icon-black-on-white.png" height="100" width="100"/>
